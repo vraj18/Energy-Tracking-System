@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/vrajborad/Downloads/DSPS_project",
-      "program": "/Users/vrajborad/Downloads/DSPS_project/build/Debug/outDebug"
+      "cwd": "/Users/vrajborad/Desktop/VsCode/DSPD_project",
+      "program": "/Users/vrajborad/Desktop/VsCode/DSPD_project/build/Debug/outDebug"
     }
   ]
 }
