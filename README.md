@@ -39,5 +39,4 @@ The goal of the project is to simulate a decentralized, high-performance platfor
 
 ---
 
-## 📁 Project Structure
 
